@@ -1,5 +1,5 @@
 <div align="center">
-  <img  height="312em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelgbecheanu&theme=dark"/>
+  <img  height="312em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelbecheanu&theme=dark"/>
 </div>
 <div align="center">
   <a href="https://github.com/marcelgbecheanu">
@@ -14,5 +14,5 @@
 </div>
   
 <div align="center">
-  <img width="790em" src="https://github.com/marcelgbecheanu/marcelgbecheanu/blob/output/github-contribution-grid-snake.svg"/>
+  <img width="790em" src="https://github.com/marcelgbecheanu/marcelbecheanu/blob/output/github-contribution-grid-snake.svg"/>
 </div>
