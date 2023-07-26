@@ -12,7 +12,3 @@
   <a href="mailto:marcel.becheanu@outlook.pt"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcel-becheanu-b55506184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
-<div align="center">
-  <img width="790em" src="https://github.com/marcelbecheanu/marcelbecheanu/blob/output/github-contribution-grid-snake.svg"/>
-</div>
